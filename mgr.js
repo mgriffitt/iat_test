@@ -8,7 +8,7 @@ define(['managerAPI',
     //const pt = urlParams.get('pt');
 
 	var API    = new Manager();
-	init_data_pipe(API, 'k0x8FH3cW9o1',  {file_type:'csv'});	
+	init_data_pipe(API, 'sPdRgEzlZzx1',  {file_type:'csv'});	
 
     API.setName('mgr');
     API.addSettings('skip',true);
